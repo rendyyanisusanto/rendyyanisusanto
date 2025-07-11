@@ -38,10 +38,9 @@ I’m an experienced software developer specializing in full-stack web and mobil
 ---
 
 ### 📬 Contact & Connect:
-- 🌐 [Portfolio Website](https://impactfurniture.my.id)
-- 💼 [LinkedIn](https://linkedin.com/in/prof-rendy)
-- 🐦 [Twitter](https://twitter.com/prof-rendy)
-- 📧 Email: rendy@domain.com
+- 🌐 [Portfolio Website](https://rendyyanisusanto.my.id)
+- 💼 [LinkedIn](https://id.linkedin.com/in/rendy-yani-susanto-a768b197)
+- 📧 Email: rendyyanisusanto@gmail.com
 
 ---
 
