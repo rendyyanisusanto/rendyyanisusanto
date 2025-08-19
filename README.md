@@ -29,11 +29,15 @@ I’m an experienced software developer specializing in full-stack web and mobil
 ---
 
 ### 📌 Featured Projects:
-- 🔹 **[Sistem Informasi Sekolah](https://github.com/prof-rendy/sistem-informasi-sekolah)** – Laravel & React.js-based school management system.
-- 🔹 **[Absensi Karyawan dengan Face Recognition](https://github.com/prof-rendy/absensi-face-recognition)** – PHP & Python-based attendance system.
-- 🔹 **[IoT ESP8266 LED Control](https://github.com/prof-rendy/iot-esp8266-led-control)** – WiFi-based LED control using ESP8266.
-- 🔹 **[Point of Sale (POS) Desktop](https://github.com/prof-rendy/pos-desktop)** – POS system built with C# and SQL Server.
-- 🔹 **[AI-Based Console Applications](https://github.com/prof-rendy/ai-console-programs)** – Various AI-powered console-based solutions.
+- 🔹 **[EDULITE - Sistem Informasi Sekolah](https://github.com/rendyyanisusanto/edulite)** – Codeigniter 3
+- 🔹 **[SANTRINET BACKOFFICE - Sistem Informasi Pondok Pesantren](https://github.com/rendyyanisusanto/santrinet)** – Codeigniter 3
+- 🔹 **[Notix - Sistem Notifikasi WA, Telegram, Email](https://github.com/rendyyanisusanto/notix)** – Node JS
+- 🔹 **[Notix-Frontend - UI Notix - Notifikasi WA, Telegram, Email](https://github.com/rendyyanisusanto/notix-frontend)** – Vue JS
+- 🔹 **[Api-Santrinet - API Sistem Informasi Pondok Pesantren](https://github.com/rendyyanisusanto/api-santrinet)** – Golang
+- 🔹 **[Api-Edulite - API Sistem Informasi Sekolah](https://github.com/rendyyanisusanto/api-edulite)** – Node JS
+- 🔹 **[Murobbi-app - App untuk pengasuh ponpes](https://github.com/rendyyanisusanto/murobbi-app)** – Vue JS
+- 🔹 **[Spam-Detector - AI Spam Detector](https://github.com/rendyyanisusanto/Spam-Detector)** – Python
+- 🔹 **[Chatbot-Ai-Gemini - AI dengan GEMINI](https://github.com/rendyyanisusanto/Chatbot-Ai-Gemini)** – Python
 
 ---
 
