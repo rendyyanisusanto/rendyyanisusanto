@@ -1,8 +1,8 @@
 ## Hi there, I'm Rendy! 👋  
 ### Full-Stack Developer | Software Engineer | Tech Enthusiast  
 
-I’m an experienced software developer specializing in full-stack web and mobile development, desktop applications, and backend API development. Passionate about building scalable applications and optimizing system performance. I also enjoy solving challenges through console programming and artificial intelligence.
-
+I’m a software developer who enjoys building useful and well-structured digital products — from web and mobile apps to desktop tools and backend services.
+Always turning coffee into useful software and ideas into systems that are scalable, reliable, and easy to maintain. I also enjoy exploring problem-solving projects and experimenting with AI-related ideas. :D
 ---
 
 ### Tech Stack:
