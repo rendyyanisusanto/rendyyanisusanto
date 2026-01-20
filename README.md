@@ -3,6 +3,7 @@
 
 I’m a software developer who enjoys building useful and well-structured digital products — from web and mobile apps to desktop tools and backend services.
 Always turning coffee into useful software and ideas into systems that are scalable, reliable, and easy to maintain. I also enjoy exploring problem-solving projects and experimenting with AI-related ideas. :D
+
 ---
 
 ### Tech Stack:
