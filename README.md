@@ -7,7 +7,7 @@ I’m an experienced software developer specializing in full-stack web and mobil
 
 ### 🛠 Tech Stack:
 #### 🌐 Web Development:
-- **Frontend:** Vue.js, React.js
+- **Frontend:** Vue.js, React.js, Next
 - **Backend:** PHP (CodeIgniter, Laravel), Node.js, Golang
 - **CMS:** WordPress
 
